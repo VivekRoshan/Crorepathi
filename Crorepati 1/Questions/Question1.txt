@@ -1,0 +1,6 @@
+Highest number of storeys in a building?
+A : 106
+B : 102
+C : 100
+D : 110
+B : 102

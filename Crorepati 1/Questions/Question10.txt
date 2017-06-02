@@ -1,0 +1,6 @@
+Number of children of John F.Kennedy?
+A : 4
+B : 11
+C : 6
+D : 9
+D : 9
